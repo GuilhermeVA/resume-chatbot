@@ -1,0 +1,6 @@
+# Variáveis de ambiente (Chaves de API)
+.env
+
+# Ambiente virtual (Pasta pesada e desnecessária no Git)
+.venv/
+__pycache__/
